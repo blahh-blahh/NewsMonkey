@@ -69,12 +69,12 @@ const App=()=>{
           ></Route>
           <Route
             exact
-            path=""
+            path="/"
             element={<News apiKey={apiKey} key="home" />}
           ></Route>
           <Route
             exact
-            path=""
+            path="/"
             element={<News apiKey={apiKey} key="NewsDino" />}
           ></Route>
         </Routes>

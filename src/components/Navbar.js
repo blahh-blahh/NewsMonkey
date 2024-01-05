@@ -6,7 +6,7 @@ const Navbar=()=> {
         <nav className="navbar navbar-expand-lg bg-dark sticky-top" data-bs-theme="dark">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
-              NewsDino
+              NewsMonkey
             </Link>
             <button
               className="navbar-toggler"
